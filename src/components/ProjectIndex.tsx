@@ -18,6 +18,15 @@ type Project = {
 
 const PROJECTS: Project[] = [
   {
+    title: 'Shetu',
+    description: 'An AI copilot that keeps a job safe through a long leave: built around maternity leave, useful for any planned leave. MAP: an interview in Bangla, English or Banglish turns the employee’s real duties into an evidence-backed Role Map, with an exact quote for every duty, and surfaces the ones they forgot. HOLD: the AI proposes cover for each duty, then nine deterministic rules check coverage, capacity and fairness; approval stays locked until every rule passes, and a change typed in plain words is re-checked. GUARD: at return, nothing moves to a colleague for good without the employee’s agreement. The AI proposes, rules check, people decide. Deployed end to end (FastAPI, Next.js, PostgreSQL) with 31 automated tests, CI, an audit log and a model gateway (Groq with Gemini fallback; Claude and local models supported). Final Round of the International AI Builders Congress 2026 (InfraSphere AI) with Team Anomaly: Sadia Noman Tonni, Mohammad Mahadi Hasan, Nazha Tarannum Roza and Rowshonur Rahman Rizvy. An earlier version reached Round 2 of Grameenphone FutureMakers 2026.',
+    tags: ['AI', 'FastAPI', 'Next.js', 'PostgreSQL', 'Team project', 'Finalist'],
+    link: 'https://shetu-congress.vercel.app',
+    linkText: 'View Live Demo',
+    repoLink: 'https://github.com/SpicyFalcon619/shetu-congress',
+    icon: GlobeIcon,
+  },
+  {
     title: 'Nestly',
     description: 'My proudest build, made with Sadia Noman Tonni, Nazha Tarannum Roza and Mohammad Mahadi Hasan: a platform for finding, verifying and living in shared student housing near Dhaka campuses. Every listing carries an itemised cost breakdown (rent, utilities, fees, no hidden costs), flatmates get an 8-dimension compatibility score before moving in, landlords are verified by admins, mess bills split themselves, and Nestly Exchange trades second-hand furniture with offers and counter-offers. Real-time messaging and an admin analytics dashboard sit on top.',
     tags: ['Next.js', 'TypeScript', 'Supabase', 'PostgreSQL', 'Realtime'],
@@ -68,14 +77,6 @@ const PROJECTS: Project[] = [
     link: 'https://project-wastopia.vercel.app/',
     linkText: 'View Live Project',
     icon: TrophyIcon,
-  },
-  {
-    title: 'Shetu',
-    description: 'An AI system that keeps a job intact through a long leave, starting with maternity leave. MAP: an AI interview in Bangla, English or Banglish turns her real duties into an evidence-backed Role Map and finds the ones she forgot. HOLD: colleagues cover them, and a change typed in plain words is re-planned. FIT: her return is planned around the arrangement she needs. AI proposes, rules check, people decide. Selected for Round 2 (the Concept Pitch) of Grameenphone FutureMakers 2026, Gender Equality & Inclusion, with Sadia Noman Tonni and Mohammad Mahadi Hasan.',
-    tags: ['AI', 'FastAPI', 'React', 'SQLite', 'Team project'],
-    link: 'https://github.com/SpicyFalcon619/shetu-prototype',
-    linkText: 'See the Prototype',
-    icon: GlobeIcon,
   },
   {
     title: 'YT-DeepNote',
