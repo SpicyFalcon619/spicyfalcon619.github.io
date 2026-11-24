@@ -6,15 +6,15 @@ const ENTRIES = [
   {
     date: 'Nov 2026',
     title: 'International AI Builders Congress 2026 — Final Round',
-    org: 'Team Anomaly, InfraSphere AI domain',
-    body: 'Selected for the Final Round (Congress Day, 26 Dec 2026, DIU Ashulia) with Shetu: an AI copilot that keeps a job safe through leave, where the AI proposes, nine rules check and people decide. Built with Sadia Noman Tonni, Mohammad Mahadi Hasan, Nazha Tarannum Roza and Rowshonur Rahman Rizvy.',
+    org: 'Team_Anomaly, InfraSphere AI domain',
+    body: 'Selected for the Final Round (Congress Day, 26 Dec 2026, DIU Ashulia) with Shetu: an AI copilot that keeps a job safe through leave, where the AI proposes, nine rules check and people decide.',
     tags: ['AI', 'Competition', 'Finalist'],
   },
   {
     date: 'Oct 2026',
     title: 'Grameenphone FutureMakers 2026',
     org: 'Team_Anomaly, Gender Equality & Inclusion',
-    body: 'Selected for Round 2, the Concept Pitch at GP House, with the first version of Shetu: an AI system that keeps a job intact through maternity leave. Built with Sadia Noman Tonni and Mohammad Mahadi Hasan.',
+    body: 'Selected for Round 2, the Concept Pitch at GP House, with the first version of Shetu: an AI system that keeps a job intact through maternity leave.',
     tags: ['AI', 'Competition'],
   },
   {
