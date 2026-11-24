@@ -1,6 +1,6 @@
 # Ahmad Maruf Hossain: Portfolio
 
-The personal portfolio of **Ahmad Maruf Hossain (SpicyFalcon619)**: a CSE undergraduate at United International University, Undergraduate Assistant for the Database Management System Lab, and builder of Nestly, the Field Guides and Drawer 378.
+The personal portfolio of **Ahmad Maruf Hossain (SpicyFalcon619)**: a CSE undergraduate at United International University, Undergraduate Assistant in the CSE department's lab courses, and builder of Nestly, the Field Guides and Drawer 378.
 
 **[spicyfalcon619.github.io](https://spicyfalcon619.github.io)** · [Resume (PDF)](https://spicyfalcon619.github.io/resume.pdf) · [Desktop-style version](https://spicyfalcon-os.vercel.app)
 

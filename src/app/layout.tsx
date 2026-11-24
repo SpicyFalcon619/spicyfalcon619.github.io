@@ -20,7 +20,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('https://spicyfalcon619.github.io'),
   title: 'Ahmad Maruf Hossain - Portfolio',
-  description: 'CSE undergrad at UIU and DBMS Lab assistant. Blockchain competition finalist; research interests in human-centred AI, HCI and NLP.',
+  description: 'CSE undergrad at UIU and lab Undergraduate Assistant. Blockchain competition finalist; research interests in human-centred AI, HCI and NLP.',
   openGraph: {
     title: 'Ahmad Maruf Hossain (SpicyFalcon619)',
     description: 'CSE undergrad at UIU. Nestly, interactive Field Guides, Drawer 378, and a path into ML and AI.',

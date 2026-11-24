@@ -20,7 +20,7 @@ const INTERESTS = [
 
 const HIGHLIGHTS = [
   { icon: TrophyIcon, text: 'Finalist (Final Round) at the International AI Builders Congress 2026 with Team_Anomaly, for Shetu — an AI copilot that keeps a job safe through leave, where the AI proposes, nine rules check and people decide' },
-  { icon: TrophyIcon, text: 'Selected as Undergraduate Assistant (UGA) in the CSE department at UIU — assisting in the Database Management System Lab since July 2026' },
+  { icon: TrophyIcon, text: 'Selected as Undergraduate Assistant (UGA) in the CSE department at UIU — supporting students in lab courses since July 2026, starting with the Database Management System Lab' },
   { icon: PinIcon, text: 'Built Nestly with three teammates — a housing & flatmate-matching platform for UIU students on Next.js and Supabase; the project I\'m proudest of, and a fully original idea' },
   { icon: CapIcon, text: 'Teach through three interactive Field Guides (Java, ML, AI Engineering) where every example runs in the browser; the Java one follows UIU\'s OOP courses' },
   { icon: SparkIcon, text: 'Published Drawer 378 — my whole degree (3,000+ files, 37 courses) as a searchable archive that juniors use for past papers and slides' },
@@ -35,7 +35,7 @@ export default function InfoPanels({ githubStats, contributions }: { githubStats
         <div className="info-panel-v3">
           <h3 className="panel-title">About</h3>
           <p className="about-p">
-            I&apos;m <strong>SpicyFalcon619</strong> — a CSE undergrad at United International University (3rd year, 8th trimester) and an Undergraduate Assistant for the Database Management System Lab. I build complete, working products, teach what I learn through interactive guides, and am going deep on machine learning &amp; AI.
+            I&apos;m <strong>SpicyFalcon619</strong> — a CSE undergrad at United International University (3rd year, 8th trimester) and an Undergraduate Assistant in the CSE department&apos;s lab courses. I build complete, working products, teach what I learn through interactive guides, and am going deep on machine learning &amp; AI.
           </p>
           <ul className="highlight-list">
             {HIGHLIGHTS.map((h) => (

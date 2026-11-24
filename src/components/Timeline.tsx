@@ -21,8 +21,8 @@ const ENTRIES = [
     date: 'Jul 2026 — Present',
     title: 'Undergraduate Assistant (UGA)',
     org: 'Department of CSE, United International University',
-    body: 'Selected as a UGA for the Database Management System Lab: supporting students through SQL and database lab sessions.',
-    tags: ['DBMS', 'SQL', 'Teaching'],
+    body: 'Selected as a UGA in the CSE department, supporting students in lab courses. The courses change from trimester to trimester; the first was the Database Management System Lab.',
+    tags: ['Lab Courses', 'Teaching', 'DBMS'],
   },
   {
     date: 'Jan 2025',
