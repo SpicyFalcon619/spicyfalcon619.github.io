@@ -19,6 +19,7 @@ const INTERESTS = [
 ];
 
 const HIGHLIGHTS = [
+  { icon: TrophyIcon, text: 'Finalist (Final Round) at the International AI Builders Congress 2026 with Team Anomaly, for Shetu — an AI copilot that keeps a job safe through leave, where the AI proposes, nine rules check and people decide' },
   { icon: TrophyIcon, text: 'Selected as Undergraduate Assistant (UGA) in the CSE department at UIU — assisting in the Database Management System Lab since July 2026' },
   { icon: PinIcon, text: 'Built Nestly with Sadia Noman Tonni, Nazha Tarannum Roza and Mohammad Mahadi Hasan — a housing & flatmate-matching platform for UIU students on Next.js and Supabase; the project I\'m proudest of, and a fully original idea' },
   { icon: CapIcon, text: 'Teach through three interactive Field Guides (Java, ML, AI Engineering) where every example runs in the browser; the Java one follows UIU\'s OOP courses' },
